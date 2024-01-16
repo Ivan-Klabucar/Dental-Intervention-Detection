@@ -2,8 +2,8 @@
 
 Goal: Train a robust dental intervention detection model. <br>
 Challenges: 
- - unbalanced classes, 
- - inconsistent bounding box labelling methodology, 
+ - imbalanced classes, 
+ - inconsistent bounding box labeling methodology, 
  - many unlabelled instances
 
-Trained model was used to improve original dataset through a semi-automatic process where a dentist could approve or reject high-confidence predictions that did not match the ground truth.
+The trained model was used to improve the original dataset through a semi-automatic process where a dentist could approve or reject high-confidence predictions that did not match the ground truth.
